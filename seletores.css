@@ -1,0 +1,50 @@
+div {
+    display: inline-block;
+    border: 0 solid white;
+    width: 200px;
+    height: 200px;
+    margin: -1px;
+    
+    }
+    .primeiralinha{
+        background-color: red;
+    }
+    .segundalinha{
+        background-color: rgb(0, 195, 255);
+    }
+    #coluna1, #coluna2{
+        background-color: red;
+    }
+    .terceiralinha{
+        background-color: rgb(62, 128, 0);
+    }
+    #coluna3, #coluna4{
+        background-color: red;
+    }
+    .quartalinha{
+        background-color: yellow;
+    }
+    #coluna5, #coluna6{
+        background-color: red;
+    }
+    .quintalinha{
+        background-color: red;
+    }
+    #canto1, #canto2, #canto3, #canto4{
+        border: 1px solid black;
+    }
+    #canto1:hover{
+        background-color: pink;
+    }
+    #canto2:hover{
+        background-color: pink;
+    }
+    #canto3:hover{
+        background-color: pink;
+    }
+    #canto4:hover{
+        background-color: pink;
+    }
+    
+    
+
